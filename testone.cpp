@@ -6,7 +6,7 @@ int add(int a, int b) {
     return a + b;
 }
 int avg(int a,int b){
-    return a+b/2
+    return a+b/2;
 }
 
 int main(){
